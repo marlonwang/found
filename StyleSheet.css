@@ -1,0 +1,10 @@
+﻿/* lost & found */
+body { width:1000px; margin:0 auto;
+}
+
+#banner{ width:1000px; height:73px; background-color:#F8F8F8;}
+#content{ width:1000px; margin-top:10px; float:left; }
+
+#conleft{width:493px; margin-right:10px; border:1px solid #C4C4CC; float:left;}
+#conright{width:493px; border:1px solid #C4C4CC; float:left;}
+#footer{ width:1000px;margin-top:10px; height:50px; float:left;}
