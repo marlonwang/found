@@ -1,15 +1,9 @@
-# 长大在线招领平台[found] #
+# A lost and found platform
 
-----------
-长大在线失物招领平台重新开发。
+- written by：C# ASP.NET
 
-- 开发语言：C#
+- required：
+-       1.record the found items into the database；
+-       2.mark the item invalid once it is claimed by the oener;
+-       3.manager arrange all the items；
 
-- 主负责人：[marlonwang](https://github.com/marlonwang)
-
-- 要求：
--       1.用户拾到物件提交，记录入库；
--       2.失主找到物件领取，记录更新；
--       3.管理员查看核实；
-
-----------
